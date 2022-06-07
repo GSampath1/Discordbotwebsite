@@ -8,16 +8,11 @@
   <h3 align="center">Discord Bot Website</h3>
 
   <p align="center">
-    Auto Moderation a powerful Moderation Discord Bot
+    Discord Bot Website is open source website code for discord bot
     <br />
     <br />
   </p>
 </p>
-
-## 🎭 Futures
-
-- [x] Moderation
-- [x] Auto Moderation
 
 <!-- INSTALL -->
 ## 🚀 Installation
@@ -44,8 +39,8 @@ Discord Bot Website is an open source for discord bot website!
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Discord Bot Website! and Add join our discord server
 ## 💨 Run the projects
-Repl: ![Run on Repl.it](https://repl.it/badge/github/gsampath2/Discordbotwebsite)
-Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gsampath2/Discordbotwebsite)
+![Run on Repl.it](https://repl.it/badge/github/gsampath2/Discordbotwebsite)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gsampath2/Discordbotwebsite)
 
 ## 👥 TEAMS ##
 <div align="left">
